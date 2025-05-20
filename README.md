@@ -8,5 +8,10 @@
 - [Matte R1](./Matte-R1/) : 6
 - [Fysikk 2](./Fysikk-2/) : 6
 - [Matte R2 Muntlig](./Matte-R2-Muntlig.pdf) : 6
-- [Norsk Hovedmål](./Norsk-Hovedmal/) : 4
-- [Norsk Sidemål](./Norsk-Sidemal/) : 4
+- [Norsk Hovedmål](./Norsk-Hovedmal.pdf) : 4
+- [Norsk Sidemål](./Norsk-Sidemal.pdf) : 4
+
+## Oppgavetekster for Norsk Eksamenene
+Passord er 'Eksamen'
+- [Norsk Hovedmål](https://kandidat.udir.no/epsmateriell/eksamen?fagkode=nor1267&malform=nb-no&semester=v&ar=2024&eksamensdeltype=eksamen)
+- [Norsk Sidemål](https://kandidat.udir.no/epsmateriell/eksamen?fagkode=nor1268&malform=nb-no&semester=v&ar=2024&eksamensdeltype=eksamen)
