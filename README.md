@@ -1,7 +1,7 @@
 # Tidligere eksamener fra VGS
 
 > [!NOTE]
-> Hvis det ikke står noe annet så er det en skriftlig eksamen
+> Hvis det ikke står noe annet så er det en skriftlig eksamen  
 > Det mangler besvarelse for del 1 i Matte R1 
 
 ## Karakterliste
